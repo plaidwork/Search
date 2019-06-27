@@ -10,7 +10,7 @@
 面向百度谷歌搜索，
 简单而粗糙的代码，是谁将他们陈列于此？
 
-1.首页引入中国网页天气插件 [网址](http://www.weather.com.cn "中国天气网")
+1.首页引入中国网页天气插件 [官网](http://www.weather.com.cn "中国天气网")
 
 2.CDN加速，部分js，css [常用前端公共库 CDN 服务](https://css.loli.net/ "常用前端公共库 CDN 服务")
 
