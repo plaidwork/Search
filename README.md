@@ -14,4 +14,6 @@
 
 2.CDN加速，部分js，css [常用前端公共库 CDN 服务](https://css.loli.net/ "常用前端公共库 CDN 服务")
 
+3.图标来自 [Font Awesome](https://fontawesome.com/ "Font Awesome") [阿里矢量图标库](https://www.iconfont.cn/ "阿里巴巴矢量图标库")
+
 
