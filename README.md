@@ -3,7 +3,7 @@
 
 ![](https://cdn.theday2012.xyz/image/search64.png)搜索喵，简单无广告。
 
-☕[展示地址](https://plaidweb.cn/Search/ "Search!搜索喵")丨🤞备用地址
+☕[展示地址](https://plaidweb.top/Search/ "Search!搜索喵")丨🤞备用地址
 
 ## 当前版本：v0.1.0 2019.06.26
 ### Fork or Ctrl + C/V ？
