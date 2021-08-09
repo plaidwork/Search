@@ -1,16 +1,17 @@
 # Search!搜索喵
-[Search!搜索喵](https://plaidweb.cn/search/index.html)
+[Search!搜索喵](https://plaidweb.top/search/index.html)
 
-![](https://cdn.theday2012.xyz/image/search64.png)搜索喵，简单无广告。
+![](https://cdn.plaidweb.top/A/image/search/64.png)搜索喵，简单无广告。
 
-☕[展示地址](https://plaidweb.top/Search/ "Search!搜索喵")丨🤞备用地址
+☕[展示地址](http://plaidweb.top/Search/ "Search!搜索喵")丨🤞备用地址
 
-## 当前版本：v0.1.0 2019.06.26
+## 当前版本：v0.1.0 2021.08.09
 ### Fork or Ctrl + C/V ？
 面向百度谷歌搜索，
 简单而粗糙的代码，是谁将他们陈列于此？
 
 1.首页引入中国网页天气插件 [官网](http://www.weather.com.cn "中国天气网")
+ 🍉备选丨和风天气  [官网](https://widget.qweather.com/ "和风天气插件")
 
 2.CDN加速，部分js，css [常用前端公共库 CDN 服务](https://css.loli.net/ "常用前端公共库 CDN 服务")
 
