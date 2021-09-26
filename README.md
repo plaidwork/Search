@@ -13,7 +13,7 @@
 1.首页引入中国网页天气插件 [官网](http://www.weather.com.cn "中国天气网")
 和风天气(备选) [官网](https://widget.qweather.com/ "和风天气插件")
 
-2.CDN加速，部分js，css [常用前端公共库 CDN 服务](https://css.loli.net/ "常用前端公共库 CDN 服务")丨[ CDN 服务](https://cdnjs.com/ "cdnjs - 排名第一的免费开源 CDN")
+2.CDN加速，部分js，css [常用前端公共库 CDN 服务](https://css.loli.net/ "常用前端公共库 CDN 服务")丨[ cdnjs.com](https://cdnjs.com/ "cdnjs - 排名第一的免费开源 CDN")
 
 3.图标来自 [Font Awesome](https://fontawesome.com/ "Font Awesome") [阿里矢量图标库](https://www.iconfont.cn/ "阿里巴巴矢量图标库")
 
