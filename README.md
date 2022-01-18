@@ -1,9 +1,9 @@
 # Search!搜索喵
-[Search!搜索喵](https://plaidweb.top/search/index.html)
+[Search!搜索喵](https://s.plaidweb.top)
 
 ![](https://cdn.plaidweb.top/A/image/search/64.png)搜索喵，简单无广告。
 
-☕[Vercel展示地址](https://search-umber.vercel.app/ "Search!搜索喵已部署至Vercel")丨🤞[备用地址](http://plaidweb.top/Search/ "Search!搜索喵")
+☕[Vercel展示地址](https://search-umber.vercel.app/ "Search!搜索喵已部署至Vercel")丨🤞[备用地址](https://s.plaidweb.top "Search!搜索喵")
 
 ## 当前版本：v0.1.0 2021.08.24
 ### Fork or Ctrl + C/V ？
