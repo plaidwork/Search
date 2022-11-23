@@ -1,6 +1,6 @@
-## 本项目不再维护，已迁移至新项目
+## 本项目不再维护，已迁移至新项目[plaidwork.github.io](https://github.com/plaidwork/plaidwork.github.io)
 
-# New：[喵喵起始页](https://plaidwork.github.io)
+## 预览：[喵喵起始页](https://plaidwork.github.io)
 
 ![](https://github.com/plaidwork/plaidwork.github.io/tree/main/static/icon/32.png)
 
